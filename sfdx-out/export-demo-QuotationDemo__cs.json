@@ -1,0 +1,40 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "QuotationDemo__c",
+                "referenceId": "QuotationDemo__cRef1"
+            },
+            "Name": "Quote 3",
+            "Amount__c": 1000,
+            "Delivery_Method__c": "GIT",
+            "Expiration_date__c": "2018-03-31",
+            "Limit__c": 1500,
+            "No_of_LoB_s_Won__c": 8
+        },
+        {
+            "attributes": {
+                "type": "QuotationDemo__c",
+                "referenceId": "QuotationDemo__cRef2"
+            },
+            "Name": "Quote 2",
+            "Amount__c": 2000,
+            "Delivery_Method__c": "CLI",
+            "Expiration_date__c": "2018-03-25",
+            "Limit__c": 2500,
+            "No_of_LoB_s_Won__c": 5
+        },
+        {
+            "attributes": {
+                "type": "QuotationDemo__c",
+                "referenceId": "QuotationDemo__cRef3"
+            },
+            "Name": "Quote 1",
+            "Amount__c": 3000,
+            "Delivery_Method__c": "DX",
+            "Expiration_date__c": "2018-03-18",
+            "Limit__c": 3500,
+            "No_of_LoB_s_Won__c": 10
+        }
+    ]
+}

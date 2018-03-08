@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "QuotationDemo__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "export-demo-QuotationDemo__cs.json"
+        ]
+    }
+]

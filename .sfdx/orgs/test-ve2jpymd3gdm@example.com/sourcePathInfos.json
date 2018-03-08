@@ -1,0 +1,292 @@
+[
+    [
+        "C:\\Users\\rachebro\\QuotationDXProject\\force-app",
+        {
+            "sourcePath": "C:\\Users\\rachebro\\QuotationDXProject\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1520445212548,
+            "changeTime": 1520445212548,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\rachebro\\QuotationDXProject\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\rachebro\\QuotationDXProject\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1520445212549,
+            "changeTime": 1520445212549,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rachebro\\QuotationDXProject\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\rachebro\\QuotationDXProject\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520498714411,
+            "changeTime": 1520498714411,
+            "isWorkspace": false,
+            "contentHash": "fe344310c8ce35dbd6d987bd9aa1834c4c99d771"
+        }
+    ],
+    [
+        "C:\\Users\\rachebro\\QuotationDXProject\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\rachebro\\QuotationDXProject\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1520445212550,
+            "changeTime": 1520445212550,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rachebro\\QuotationDXProject\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "C:\\Users\\rachebro\\QuotationDXProject\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1520445476352,
+            "changeTime": 1520445476352,
+            "contentHash": "bb19a0e3a3715fe0b6ad53799ee50a9586e0a840",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rachebro\\QuotationDXProject\\force-app\\main\\default\\layouts\\QuotationDemo__c-Quotation Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rachebro\\QuotationDXProject\\force-app\\main\\default\\layouts\\QuotationDemo__c-Quotation Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2653,
+            "modifiedTime": 1520445476353,
+            "changeTime": 1520445476353,
+            "contentHash": "8ee70795b56df770d965012a43f8477a36cfd997",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rachebro\\QuotationDXProject\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\Users\\rachebro\\QuotationDXProject\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1520445476386,
+            "changeTime": 1520445476386,
+            "contentHash": "28b19481e47469e7ed51ff37d53e4eaaa0c58b5c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rachebro\\QuotationDXProject\\force-app\\main\\default\\objects\\QuotationDemo__c",
+        {
+            "sourcePath": "C:\\Users\\rachebro\\QuotationDXProject\\force-app\\main\\default\\objects\\QuotationDemo__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1520498730161,
+            "changeTime": 1520498219255,
+            "contentHash": "d428f6c5c8fef11a74c0e24dd1be5e99e5e555e6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
+        }
+    ],
+    [
+        "C:\\Users\\rachebro\\QuotationDXProject\\force-app\\main\\default\\objects\\QuotationDemo__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\rachebro\\QuotationDXProject\\force-app\\main\\default\\objects\\QuotationDemo__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1520445476396,
+            "changeTime": 1520445476396,
+            "contentHash": "683d5915b5f497d22e7d4493597214fa24098b67",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rachebro\\QuotationDXProject\\force-app\\main\\default\\objects\\QuotationDemo__c\\fields\\Amount__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rachebro\\QuotationDXProject\\force-app\\main\\default\\objects\\QuotationDemo__c\\fields\\Amount__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 386,
+            "modifiedTime": 1520445476391,
+            "changeTime": 1520445476391,
+            "contentHash": "5a4b702c0c4a18273d04bd1fb281aa84d2c6433d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rachebro\\QuotationDXProject\\force-app\\main\\default\\objects\\QuotationDemo__c\\fields\\Delivery_Method__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rachebro\\QuotationDXProject\\force-app\\main\\default\\objects\\QuotationDemo__c\\fields\\Delivery_Method__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 622,
+            "modifiedTime": 1520445476392,
+            "changeTime": 1520445476392,
+            "contentHash": "bdcdc0ccc9fd41b63bbb0e05e8c7d85563cafc5d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rachebro\\QuotationDXProject\\force-app\\main\\default\\objects\\QuotationDemo__c\\fields\\Expiration_date__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rachebro\\QuotationDXProject\\force-app\\main\\default\\objects\\QuotationDemo__c\\fields\\Expiration_date__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 571,
+            "modifiedTime": 1520445476394,
+            "changeTime": 1520445476394,
+            "contentHash": "7dd2f3872f0e7443c2743efc6a595628a7a0959e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rachebro\\QuotationDXProject\\force-app\\main\\default\\objects\\QuotationDemo__c\\fields\\Limit__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rachebro\\QuotationDXProject\\force-app\\main\\default\\objects\\QuotationDemo__c\\fields\\Limit__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 384,
+            "modifiedTime": 1520445476396,
+            "changeTime": 1520445476396,
+            "contentHash": "b09b5bc77f798d9e296acd7d8f79aecb853d2219",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rachebro\\QuotationDXProject\\force-app\\main\\default\\objects\\QuotationDemo__c\\fields\\No_of_LoB_s_Won__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rachebro\\QuotationDXProject\\force-app\\main\\default\\objects\\QuotationDemo__c\\fields\\No_of_LoB_s_Won__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 405,
+            "modifiedTime": 1520445476397,
+            "changeTime": 1520445476397,
+            "contentHash": "25b3d39a4543796cd1bdbbaa90a4ca4fce2ce161",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rachebro\\QuotationDXProject\\force-app\\main\\default\\objects\\QuotationDemo__c\\QuotationDemo__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rachebro\\QuotationDXProject\\force-app\\main\\default\\objects\\QuotationDemo__c\\QuotationDemo__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2136,
+            "modifiedTime": 1520445476387,
+            "changeTime": 1520445476387,
+            "contentHash": "7d0b3548d1cf4933ebbc3aaf6c479a997be644fb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rachebro\\QuotationDXProject",
+        {
+            "sourcePath": "C:\\Users\\rachebro\\QuotationDXProject",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1520497303378,
+            "changeTime": 1520497303378,
+            "contentHash": "5a3a2327e76c97e7f2fb0e77826cb58588fe7785",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\rachebro\\QuotationDXProject\\force-app\\main\\default\\objects\\QuotationDemo__c\\listViews",
+        {
+            "sourcePath": "C:\\Users\\rachebro\\QuotationDXProject\\force-app\\main\\default\\objects\\QuotationDemo__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1520498113178,
+            "changeTime": 1520498113178,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\rachebro\\QuotationDXProject\\force-app\\main\\default\\objects\\QuotationDemo__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\rachebro\\QuotationDXProject\\force-app\\main\\default\\objects\\QuotationDemo__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1520498113179,
+            "changeTime": 1520498113179,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\rachebro\\QuotationDXProject\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\rachebro\\QuotationDXProject\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1520498714413,
+            "changeTime": 1520498714413,
+            "contentHash": "6e782f4330101f7e9fd06248f8c558a53836158d"
+        }
+    ],
+    [
+        "C:\\Users\\rachebro\\QuotationDXProject\\force-app\\main\\default\\tabs\\QuotationDemo__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\rachebro\\QuotationDXProject\\force-app\\main\\default\\tabs\\QuotationDemo__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 223,
+            "modifiedTime": 1520498714414,
+            "changeTime": 1520498714414,
+            "contentHash": "063f8013efa57d1484f8fb4a53d7d94bfbb4c195"
+        }
+    ]
+]
